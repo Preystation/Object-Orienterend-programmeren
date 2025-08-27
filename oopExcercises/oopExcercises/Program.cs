@@ -11,7 +11,7 @@
             switch (number)
             {
                 case 1:
-                   DateTimeExercises.ShowSubmenu();
+                    DateTimeExercises.ShowSubmenu();
                     break;
 
 
@@ -21,4 +21,4 @@
             }
         }
     }
-    }
+}
