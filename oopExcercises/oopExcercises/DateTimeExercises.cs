@@ -17,7 +17,8 @@ namespace oopExcercises
                 "\n3. H10-DayOfTheWeek" +
                 "\n4. H10_TicksSince2000" +
                 "\n5. H10_LeapYearCount" +
-                "\n6. H10_CodeTiming");
+                "\n6. H10_CodeTiming"
+                );
 
             int number = Convert.ToInt32(Console.ReadLine());
             switch (number)
