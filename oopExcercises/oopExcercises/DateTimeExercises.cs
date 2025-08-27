@@ -16,7 +16,8 @@ namespace oopExcercises
                 "\n2. H10-Birthday" +
                 "\n3. H10-DayOfTheWeek" +
                 "\n4. H10_TicksSince2000" +
-                "\n5. H10_LeapYearCount");
+                "\n5. H10_LeapYearCount" +
+                "\n6. H10_CodeTiming");
 
             int number = Convert.ToInt32(Console.ReadLine());
             switch (number)
@@ -157,7 +158,7 @@ namespace oopExcercises
             }
             DateTime end = DateTime.Now;
             TimeSpan duration = end - start;
-            Console.WriteLine($"Het maken en vullen van de array duurde {duration.Milliseconds}");
+            Console.WriteLine($"Het maken en vullen van de array duurde {duration.Milliseconds} milliseconden");
         }
 
     }
