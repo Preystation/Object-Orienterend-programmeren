@@ -27,5 +27,6 @@ oef 08: H10_4 SchoolAdmin klasse Course gedaan
 oef 09: H10_5 SchoolAdmin klasse CourseResult gedaan
 oef 10: H10_6 SchoolAdmin Student Averagege gedaan
 oef 11: H10_7 SchoolAdmin properties Course gedaan
-oef 12 : H10_8 SchoolAdmin properties CourseResult gedaan maar met chatgpt
+oef 12 : H10_8 SchoolAdmin properties CourseResult gedaan 
+oef 13: H10_9 SchoolAdmin Student Age gedaan maar met chatgpt
 ```
