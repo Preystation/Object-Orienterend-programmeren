@@ -21,6 +21,9 @@ namespace oopExcercises
                 case 1:
                     H10_CombinationOf2Numbers();
                     break;
+                case 2:
+                    H10_figures();
+                    break;
                 
                 default:
                     Console.WriteLine("Onbekende waarde");
@@ -59,6 +62,9 @@ Gebruik public attributen Number1en Number2. Plaats onderstaande code in een pub
 
         public static void H10_CombinationOf2Numbers()
         {
+
+        }
+        public static void H10_figures(){
 
         }
     }
